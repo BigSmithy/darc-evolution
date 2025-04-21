@@ -1,4 +1,8 @@
 {
+  //-----Item Groups-----//
+  "itemgroup.darcevo.darc_main": "Darc Evolution",
+
+
   //-----Tourmaline Items-----//
   "item.darcevo.tourmaline": "Tourmaline"
 }

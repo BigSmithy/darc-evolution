@@ -1,5 +1,6 @@
 package com.smithy.darcevo;
 
+import com.smithy.darcevo.items.ItemGroups;
 import com.smithy.darcevo.items.TourmalineItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +13,8 @@ public class DarcEvolution implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ItemGroups.registerItemGroups();
 
 		TourmalineItems.registerTourmalineItems();
 
