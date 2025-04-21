@@ -3,7 +3,7 @@
 	"id": "darcevo",
 	"version": "${version}",
 	"name": "Darc Evolution",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod is a magic-tech mod that is heavily inspired by orespawn as well as spectrum",
 	"authors": [
 		"Me!"
 	],
@@ -31,7 +31,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.13",
-		"minecraft": "~1.21.5",
+		"minecraft": "~1.21.2",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
